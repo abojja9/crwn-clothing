@@ -95,10 +95,6 @@ const SignInForm = () => {
                 </Button>
                 </div>
             </form>
-            <button type='button'
-                    onClick={signInWithGoogle} 
-                >Google signIn</button>
-            
         </div>
     )
 }
