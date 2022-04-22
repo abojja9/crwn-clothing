@@ -11,7 +11,7 @@ import './navigation.styles.scss';
 
 const Navigation = () => {
     const { currentUser, setCurrentUser } = useContext(UserContext);
-    console.log(currentUser)
+    // console.log(currentUser)
 
     const { isCartOpen } = useContext(CartContext)
     return (
