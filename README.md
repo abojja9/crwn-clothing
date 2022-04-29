@@ -1,5 +1,13 @@
 # Project Description
 
+Here is a sample image of the application:
+
+<img
+  src="./shopping-cart.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  
 Created a Full stack E-commerce Shopping cart website with React.js frontend and Firebase backend. The shopping cart contains multiple pages like home, User Sign, shopping page, checkout page. 
 
 
