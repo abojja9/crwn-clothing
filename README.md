@@ -1,3 +1,8 @@
+# Project Description
+
+Created a Full stack E-commerce Shopping cart website with React.js frontend and Firebase backend. The shopping cart contains multiple pages like home, User Sign, shopping page, checkout page. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
