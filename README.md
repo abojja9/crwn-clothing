@@ -8,7 +8,10 @@ Here is a sample image of the application:
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
-Created a Full stack E-commerce Shopping cart website with React.js frontend and Firebase backend. The shopping cart contains multiple pages like home, User Sign, shopping page, checkout page. 
+Created a Full stack E-commerce Shopping cart website with React.js frontend and Firebase backend. The shopping cart contains multiple pages like home, User Sign, shopping page, checkout page. Firebase is used to authenticate (register/sign in) to the application. Once authenticated users can add products to the shopping cart and got to the checkout page.  
+
+This simple shopping cart prototype shows how React with React routing, React hooks, react Context  can be used to build a friendly user experience with instant visual updates and scaleable code in ecommerce applications.
+
 
 
 # Getting Started with Create React App
